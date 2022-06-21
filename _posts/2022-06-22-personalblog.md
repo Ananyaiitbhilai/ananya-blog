@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I feel yesterday and today"
-date:   2022-06-22 02:02:39
+date:   
 categories: personal
 ---
 Hey! Here I am writing a personal Blog. And not only writing a blog but also writing it in a markdown file, particularly deploying a jekyll website just for a personal blog, I could have written this blog in motes app on my laptop rather that putting all these efforts but I wanted to put some effort to write this blog and hence this jekyll website. I was thinking about this(blogging, personal website) since past 1 month. 
