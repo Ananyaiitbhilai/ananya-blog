@@ -1,12 +1,12 @@
-title: John Smith
+title: Ananya
 description: My Personal Blog
-author: John Smith
+author: Ananyaiitbhilai
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/ananyaiitbhilai
+about: Student
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://ananyaiitbhilai.github.io/ananya-blog"
+url: "https://ananyaiitbhilai.github.io/ananya-blog"
 
 allowsearch: true
 
